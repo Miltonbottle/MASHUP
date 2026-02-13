@@ -3,3 +3,4 @@ moviepy
 pydub
 yt-dlp
 gunicorn
+yagmail
