@@ -21,12 +21,8 @@ python 102303560.py "<SingerName>" <NumberOfVideos> <AudioDuration> <OutputFileN
 ```
 Example:
 
-```python 102303560.py "Sharry Maan" 20 30 mashup.mp3
+```
+python 102303560.py "Sharry Maan" 20 30 mashup.mp3
 ```
 
-CSS
-16.6%
- 
-HTML
-16.5%
-Footer
+
